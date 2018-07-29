@@ -78,8 +78,8 @@
 
 "FUJITSU MHU2100AT"		194  C	"Fujitsu MHU2100AT 100GB, 8MB (4200RPM)"
 
-"FUJITSU MHV2100AH"		194  C	"FUJITSU MHV2100AH" 
-"FUJITSU MHV2100AT"		194  C	"FUJITSU MHV2100AT" 
+"FUJITSU MHV2100AH"		194  C	"FUJITSU MHV2100AH"
+"FUJITSU MHV2100AT"		194  C	"FUJITSU MHV2100AT"
 "FUJITSU MHV2080[AB]H"		194  C	"FUJITSU MHV2080AH"
 
 "FUJITSU MPF3204AH"		194  C	"Fujitsu MPF3204AH"
@@ -170,14 +170,14 @@
 "IC25T048ATDA05-0"		194  C	"IBM Travelstar 48GH serie"
 "IC25T060ATC[SX]05-0"		194  C	"IBM Travelstar 60GH serie"
 "IC35L0[12346]0AVER07"		194  C	"IBM Deskstar 60GXP serie"
-"IC35L[01][02468]0AVV[AN]07*"	194  C	"IBM Deskstar 120GXP serie"  
+"IC35L[01][02468]0AVV[AN]07*"	194  C	"IBM Deskstar 120GXP serie"
 "IC35L[01][23689]0AVV207*"	194  C	"IBM Deskstar 180GXP serie"
 
 ########################################
 ############# Maxtor drives
 ########################################
 #"Maxtor 2B0[012][04568]H1"				???  C	"Maxtor Fireball 541DX"
-"Maxtor 2F0[234]0[LJ]0"					194  C	"Maxtor Fireball 3" 
+"Maxtor 2F0[234]0[LJ]0"					194  C	"Maxtor Fireball 3"
 # which one must I trust ?
 #"Maxtor 4D040H2"					9    C	"Maxtor DiamondMax D540X-4D"
 #"Maxtor 4D040H2"					0    C	"Maxtor 4D040H2"
@@ -195,7 +195,7 @@
 "Maxtor 6E0[234]0L0"					194  C	"Maxtor DiamondMax Plus 8"
 "MAXTOR 6L0[2468]0[LJ][1234]"				194  C	"Maxtor DiamondMax Plus D740X family"
 "Maxtor 6V320F0"					194  C  "Maxtor Diamond Max 10 SATA II 320 GB"
-"Maxtor 6Y(06|08|12|16|20|25)0[LPM]0"			194  C	"Maxtor DiamondMax Plus 9" 
+"Maxtor 6Y(06|08|12|16|20|25)0[LPM]0"			194  C	"Maxtor DiamondMax Plus 9"
 "Maxtor 7L300[RS]0"					194  C  "Maxtor 7L300R0 MaxLine+III 300GB 7200rpm"
 "Maxtor 7Y250[PM]0"					194  C	"Maxtor MaXLine Plus II 250GB 7200RPM"
 "Maxtor 94098U8"					11   C	"Maxtor DiamondMax 40 94098U8"
@@ -247,9 +247,9 @@
 ############# Samsung drives
 ########################################
 # somenone reported a problem with the SP8004H which reports a temperature
-# 10�C below the ambient temperature
+# 10°C below the ambient temperature
 "SAMSUNG HA(200|250)JC"					194  C	"Samsung SpinPoint V120CE series"
-"SAMSUNG HD160JJ"                                       194  C  "Samsung 160GB, 7200RPM, 8MB cache, SATA" 
+"SAMSUNG HD160JJ"                                       194  C  "Samsung 160GB, 7200RPM, 8MB cache, SATA"
 "SAMSUNG HD160JJ/P"					194  C	"Samsung SpinPoint P80 SD 160GB (7200RPM, 8MB cache)"
 "SAMSUNG HD[30|32|40][01]L[DJ]"                         194  C  "Samsung SpinPoint T133 series (300-400MB)"
 "SAMSUNG HD250KD"                                       194  C  "Samsung SpinPoint T133 series (250 MB PATA)"
@@ -299,7 +299,7 @@
 "ST330621A"				194  C	"Seagate ST330621A"
 "ST330630A"				194  C	"Seagate Barracuda ST330630A"
 "ST340014A"				194  C	"Seagate Barracuda 7200.7 40Gb"
-"ST340015A"				194  C	"Seagate Barracuda 5400.1 40GB" 
+"ST340015A"				194  C	"Seagate Barracuda 5400.1 40GB"
 "ST340016A"				194  C	"Seagate ST340016A"
 "ST340810A"				194  C	"Seagate U Series 40810 (40Gb, Ultra ATA/100, 5400 rpm)"
 "ST340823A"				194  C	"Seagate U Series 5 40823"
@@ -309,7 +309,7 @@
 "ST360021A"				194  C	"Seagate Barracuda IV ST360021A"
 "ST380011A"				194  C	"Seagate Barracuda 7200.7 80GB"
 "ST380012A"				194  C	"Seagate ST380012A 80GB"
-"ST380013A"				194  C	"Seagate Barracuda 7200.7 80GB" 
+"ST380013A"				194  C	"Seagate Barracuda 7200.7 80GB"
 "ST380013AS"				194  C	"Seagate Barracuda 7200.7 80GB (Serial ATA)"
 "ST380020A"				194  C	"Seagate U Series 80020 (80Gb, Ultra ATA/100, 5400 rpm)"
 "ST380021A"				194  C	"Seagate Barracuda IV ST380021A"
@@ -325,7 +325,7 @@
 "ST3120026A"				194  C	"Seagate Barracuda V ST3120026A"
 "ST3160021A"				194  C	"Seagate Barracuda 7200.7 - ST3160021A"
 "ST3160023(A|AS)"			194  C	"Seagate Barracuda V ST3160023A and AS (160Gb, ATA100 or Serial ATA)"
-"ST3160827AS"				194  C	"Seagate Barracuda 7200.7 160GB (Serial ATA)" 
+"ST3160827AS"				194  C	"Seagate Barracuda 7200.7 160GB (Serial ATA)"
 "ST3200021A"				194  C	"Seagate Barracuda 7200.7 Plus 200GB"
 "ST3200822(A|AS)"			194  C	"Seagate Barracuda 7200.7 Plus 200GB (PATA or SATA)"
 "ST3200826A"				194  C	"Seagate Barracuda 7200.8 200Gb"
@@ -341,7 +341,7 @@
 "ST3320620AS"                           194  C  "Seagate Barracuda 7200.7 320 GB"
 "ST3500630AS"                           194  C  "Seagate Barracuda 7200.7 500 GB"
 "ST3802110A"				194  C	"Seagate Barracuda 7200.9 80 GB"
-"ST910021A"				194  C	"Seagate Momentus 7200.1 100GB" 
+"ST910021A"				194  C	"Seagate Momentus 7200.1 100GB"
 "ST910082[35]A"				194  C	"Seagate Momentus 5400.2 100GB"
 "ST9120821A"				194  C	"Seagate Momentus 5400.2 120GB"
 "ST94019A"				194  C	"Seagate ST94019A"
@@ -363,20 +363,20 @@
 
 "TOSHIBA MK3017GAP"			0    C	"Toshiba MK3017GAP"
 "TOSHIBA MK3021GAS"			194  C	"Toshiba MK3021GAS"
-"TOSHIBA MK3025GAS"			194  C	"Toshiba MK3025GAS" 
+"TOSHIBA MK3025GAS"			194  C	"Toshiba MK3025GAS"
 
 #"TOSHIBA MK4019GAX"			222  C	"Toshiba MK4019GAX"
 "TOSHIBA MK4021GAS"			194  C	"Toshiba MK4021GAS"
 "TOSHIBA MK4025GAS"			194  C	"Toshiba MK4025GAS 40 Go"
 "TOSHIBA MK4026GAS"			194  C	"Toshiba MK4026GAS 40 Go"
-"TOSHIBA MK4032GAX"			194  C	"Toshiba MK4032GAX" 
+"TOSHIBA MK4032GAX"			194  C	"Toshiba MK4032GAX"
 
 "TOSHIBA MK6021GAS"			194  C	"Toshiba MK6021GAS"
 "TOSHIBA MK6022GAX"			194  C	"Toshiba MK6022GAX"
 "TOSHIBA MK6025GAS"			194  C	"Toshiba MK6025GAS"
-"TOSHIBA MK6026GAX"			194  C	"Toshiba MK6026GAX" 
+"TOSHIBA MK6026GAX"			194  C	"Toshiba MK6026GAX"
 "TOSHIBA MK8025GAS"			194  C	"Toshiba MK8025GAS"
-"TOSHIBA MK8026GAX"			194  C	"Toshiba MK8026GAX" 
+"TOSHIBA MK8026GAX"			194  C	"Toshiba MK8026GAX"
 
 "MK4025GAS"				194  C	"Toshiba MK4025GAS"
 
@@ -421,10 +421,10 @@
 "WDC WD800BB-(00|22)DKA0"					194 C "Western Digital WD800BB 80 Go"
 "WDC WD800BB-32CCB0"						194 C "Western Digital 800BB-32CCB0"
 "WDC WD800BB-55HEA0"						194 C "Western Digital 800BB-55HEA0"
-"WDC WD800BB-00JHA0"						194 C "Western Digital 800BB-00JHA0" 
-"WDC WD800BB-00JKA0"						194 C "Western Digital 800BB-00JKA0" 
-"WDC WD800BB-55JKA0"						194 C "Western Digital 800BB-55JKA0" 
-"WDC WD800BB-75FRA0"						194 C "Western Digital Caviar WD800BB"				
+"WDC WD800BB-00JHA0"						194 C "Western Digital 800BB-00JHA0"
+"WDC WD800BB-00JKA0"						194 C "Western Digital 800BB-00JKA0"
+"WDC WD800BB-55JKA0"						194 C "Western Digital 800BB-55JKA0"
+"WDC WD800BB-75FRA0"						194 C "Western Digital Caviar WD800BB"
 "WDC WD800JB-00CRA1"						  0 C "Western Digital Caviar WD800JB"
 "WDC WD800JB-00(ET|FM|FS)A0"					194 C "Western Digital Caviar 80GB Special Edition 8MB"
 "WDC WD800JB-00JJ[AC]0"						194 C "Western Digital WD800JB"
@@ -433,7 +433,7 @@
 "WDC WD800LB-(00|55)DNA0"					194 C "Western Digital Caviar WD800LB 80 Go ATA-100"
 "WDC WD800VE-07HDT0"						194 C "Western Digital 800VE-07HDT0"
 "WDC WD1200BB-00(FTA|GUA)0"					194 C "Western Digital Caviar EIDE 2MB Cache"
-"WDC WD1200JB-00(EV|FU|GV)A0"					194 C "Western Digital Caviar 120GB Special Edition 8MB" 
+"WDC WD1200JB-00(EV|FU|GV)A0"					194 C "Western Digital Caviar 120GB Special Edition 8MB"
 "WDC WD1200JB-22GVA0"						194 C "Western Digital Caviar 120GB"
 "WDC WD1200JD-00(GBB|HBC)0"					194 C "Western Digital WD1200JD"
 "WDC WD1200LB-55EDA0"						194 C "Western Digital WD1220LB"
@@ -447,9 +447,9 @@
 "WDC WD2500JB-(00RE|00EV|00FU|32FU|00GV|55GV)A0"		194 C "Western Digital Caviar 250GB Special Edition 8MB"
 "WDC WD2500JB-00GVC0"						194 C "Western Digital 250GB"
 "WDC WD2500JD-(00G|32H)BB0"					194 C "Western Digital SATA Caviar 250GB Special Edition 8MB"
-"WDC WD2500JD-40HBC0"						194 C "Western Digital WD2500JD-40HBC0" 
+"WDC WD2500JD-40HBC0"						194 C "Western Digital WD2500JD-40HBC0"
 "WDC WD2500PB-98FBA0"						194 C "Western Digital Caviar 250GB Special Edition 8MB"
-"WDC WD2500PD-00FZB1"						194 C "Western Digital WD2500PD-00FZB1" 
+"WDC WD2500PD-00FZB1"						194 C "Western Digital WD2500PD-00FZB1"
 "WDC WD2500SD-01KCB0"						194 C "Western Digital Caviar RE 250GB 8MB"
 "WDC WD3000JB-00KFA0"						194 C "Western Digital WD3000JB"
 "WDC WD3200JB-00KFA0"						194 C "Western Digital Caviar 320GB 8MB"
@@ -516,8 +516,11 @@
 "WDC WD2500JD-57HBC0"                                           194 C "Western Digital Caviar SE (Serial ATA) 250 GB"
 "WDC WD2500JS"							194 C "Western Digital WD2500JS"
 "WDC WD2500JS-41MVB1"						194 C "Western Digital SATAII Caviar 250GB Special Edition 8MB"
-"WDC WD2500JD-00HBB0"						194 C   "Western Digital SATA 250GB" 
+"WDC WD2500JD-00HBB0"						194 C   "Western Digital SATA 250GB"
 "WDC WD2500KS-00MJB0"						194 C "Western Digital SATA-II Caviar 250GB Special Edition 16MB"
 "WDC WD3000JS-00PDB0"						194 C "Western Digital WD3000JS"
 "WDC WD3200KS-00PFB0"						194 C	""
-"WDC WD3200JD-22KLB0"                                           194 C "Western Digital Caviar SE 320GB 8MB" 
+"WDC WD3200JD-22KLB0"                                           194 C "Western Digital Caviar SE 320GB 8MB"
+
+### HGST ###
+"HGST HTS545050A7E680"						190 C "HGST Travelstar™ Z5K500 500GB"
